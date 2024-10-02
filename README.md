@@ -13,6 +13,14 @@
      3. For Data Analysis
      4. For Data Visualization
 - SQL- Structured query Language for Querying of Data
-- GitHub for portfolio building        
+- GitHub for portfolio building
+
+### Data Cleaning and preparetions
+In the initial phase of the Data cleaning and preparations we perform the following action;
+1. Data Loading and Inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+   
+         
         
 
