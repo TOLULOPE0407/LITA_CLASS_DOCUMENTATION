@@ -38,8 +38,6 @@ EDA involve the exploring of the Data to answer some questions about the data su
 =SMALL(D8:D27,3)
 ```
 ```SQL
-
-			
 ![image](https://github.com/user-attachments/assets/489f94a1-f078-4eed-b0c4-18a0080d3fb5)
 
 ### Data Visualisation
