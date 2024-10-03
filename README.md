@@ -26,19 +26,24 @@ EDA involve the exploring of the Data to answer some questions about the data su
 - What is the overall sales trend
 - Which product are top sellers
 - What are the product on peak sales?
-   
-where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
-=SUM(D8:D27)	
+ ---
+ ### Data Analysis
+ This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+``` Excel function	
 =AVERAGE(D8:D27)
 =MAX(D8:D27)
 =MIN(D8:D27)	
 =COUNTA(B8:B27)	
 =LARGE(D8:D27,4)
-=SMALL(D8:D27,3)	
+=SMALL(D8:D27,3)
+```
+```SQL
+
 			
 ![image](https://github.com/user-attachments/assets/489f94a1-f078-4eed-b0c4-18a0080d3fb5)
 
 ### Data Visualisation
+
 
 
 
