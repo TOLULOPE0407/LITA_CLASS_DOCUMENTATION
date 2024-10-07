@@ -29,8 +29,9 @@ EDA involve the exploring of the Data to answer some questions about the data su
  ---
  ### Data Analysis
  This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
-``` Excel function	
-=AVERAGE(D8:D27)
+```
+-Excel functions
+=AVERAGE(eD8:D27)
 =MAX(D8:D27)
 =MIN(D8:D27)	
 =COUNTA(B8:B27)	
@@ -41,7 +42,7 @@ EDA involve the exploring of the Data to answer some questions about the data su
 ### Data Visualisation
 
 ![](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/Picture1.jpg)
-
+![](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/Picture2.jpg)
 
    
          
