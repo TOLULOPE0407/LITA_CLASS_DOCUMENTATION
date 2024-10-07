@@ -37,12 +37,10 @@ EDA involve the exploring of the Data to answer some questions about the data su
 =LARGE(D8:D27,4)
 =SMALL(D8:D27,3)
 ```
-SQL
-![image](https://github.com/user-attachments/assets/489f94a1-f078-4eed-b0c4-18a0080d3fb5)
 
 ### Data Visualisation
 
-![](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/Chart1.crtx)
+![](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/Picture1.jpg)
 
 
    
