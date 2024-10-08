@@ -31,18 +31,19 @@ EDA involve the exploring of the Data to answer some questions about the data su
  
  ### Data Analysis
  Data analysis was carried out during the class through some basic functions in excel,pivot tables  and lines of code or structured query languages  even some DAX expressions were used during our analysis. Some of the functions include;
+ 
 ```Excel functions
--Excel functionS
+-Excel functions
 =SUM(TEXT)
 =AVERAGE(D8:D27)
 =MAX(D8:D27)
 =MIN(D8:D2
 -Cleaning functions in Excel
 =UPPER
-=Lower
-=Proper
+=LOWER
+=PROPER
 -Text extraction function in Excel
-=vlook up
+=VLOOK UP
 
 ```
 
