@@ -55,6 +55,7 @@ WHERE CONDITION = TRUE
 UPDATE TABLE 1
 TRUNCATE TABLE1
 DELETE FROM TABLE 1
+ALTER TABLE1
 
 ```
 
@@ -63,6 +64,12 @@ DELETE FROM TABLE 1
 
 ![IMG-20241008-WA0011.jpg](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/IMG-20241008-WA0011.jpg)
 
+🥇
+💻
+🫅
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table1   |Table2   |Table3   |
 
    
          
