@@ -2,7 +2,7 @@
 ---
 ### Project Title: Data Analysis Class Project.
 ---
-### Project Overview: This project is to give an insight to all my learnigs during the class activities in the Ladies In Tech Africa data analysis class. By using three major tools and data provide by the facilitators.
+### Project Overview: This project is to give an insight to all my learnigs during the class activities in the Ladies In Tech Africa data analysis class. By using three major tools(EXCEL,SQL AND POWER BI) and data provide by the facilitators.
 ---
 ### Data sources: Data used in this class were majorly provided 
 ---
@@ -15,11 +15,12 @@
 - SQL- Structured query Language for Querying of Data
 - GitHub for portfolio building
 ---
-### Data Cleaning and preparetions
+### Data Cleaning and preparations
 In the initial phase of the Data cleaning and preparations ,we perform the following action;
 1. Data Loading and Inspection
 2. Handling missing variables 
-3. Data cleaning and formatting
+3. Data cleaning and 
+4. Data Validation
 ---
 ### Exploratory Data Analysis
 EDA involve the exploring of the Data to answer some questions about the data such as;
@@ -30,7 +31,7 @@ EDA involve the exploring of the Data to answer some questions about the data su
  
  ### Data Analysis
  Data analysis was carried out during the class through some basic functions in excel,pivot tables  and lines of code or structured query languages  even some DAX expressions were used during our analysis. Some of the functions include;
-```
+```Excel functions
 -Excel functionS
 =SUM(TEXT)
 =AVERAGE(D8:D27)
@@ -46,6 +47,7 @@ EDA involve the exploring of the Data to answer some questions about the data su
 ```
 
 ```SQL
+
 SELECT*FROM TABLE1
 WHERE CONDITION = TRUE
 ```
