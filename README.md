@@ -73,6 +73,9 @@ ALTER TABLE1
 
 ### Data Visualisation
 
+![DASHBOARD2.jpg](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/DASHBOARD2.jpg)
+
+
 
 ![IMG-20241008-WA0011.jpg](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/IMG-20241008-WA0011.jpg)
 
