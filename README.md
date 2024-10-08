@@ -32,7 +32,7 @@ EDA involve the exploring of the Data to answer some questions about the data su
  This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 ```
 -Excel functions
-=AVERAGE(eD8:D27)
+=AVERAGE(D8:D27)
 =MAX(D8:D27)
 =MIN(D8:D2
 ```
@@ -43,7 +43,7 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data Visualisation
-![](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/DASHBOARD2.jpg)
+![DASHBOARD2.jpg](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/DASHBOARD2.jpg)
 
 
    
