@@ -40,8 +40,8 @@ EDA involve the exploring of the Data to answer some questions about the data su
 ```
 
 ### Data Visualisation
-![](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/Picture2.jpg)
-![] (
+![](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/DASHBOARD2.jpg)
+
 
    
          
