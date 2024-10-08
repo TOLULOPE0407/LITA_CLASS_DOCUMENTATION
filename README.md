@@ -29,12 +29,20 @@ EDA involve the exploring of the Data to answer some questions about the data su
  ---
  
  ### Data Analysis
- This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+ Data analysis was carried out during the class through some basic functions in excel,pivot tables  and lines of code or structured query languages  even some DAX expressions were used during our analysis. Some of the functions include;
 ```
--Excel functions
+-Excel functionS
+=SUM(TEXT)
 =AVERAGE(D8:D27)
 =MAX(D8:D27)
 =MIN(D8:D2
+-Cleaning functions in Excel
+=UPPER
+=Lower
+=Proper
+-Text extraction function in Excel
+=vlook up
+
 ```
 
 ```SQL
@@ -43,6 +51,7 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data Visualisation
+
 
 ![IMG-20241008-WA0011.jpg](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/IMG-20241008-WA0011.jpg)
 
