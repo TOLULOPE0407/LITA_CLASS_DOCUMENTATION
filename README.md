@@ -1,6 +1,18 @@
 # LITA_CLASS_DOCUMENTATION
 ---
 ### Project Title: Data Analysis Class Project.
+[Project Overview](#project-overview)
+
+[Data sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Visualisation](#data-visualisation)
+
 ---
 ### Project Overview: This project is to give an insight to all my learnigs during the class activities in the Ladies In Tech Africa data analysis class. By using three major tools(EXCEL,SQL AND POWER BI) and data provide by the facilitators.
 ---
