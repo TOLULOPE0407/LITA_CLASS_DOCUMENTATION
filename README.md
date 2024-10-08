@@ -34,10 +34,8 @@ EDA involve the exploring of the Data to answer some questions about the data su
 -Excel functions
 =AVERAGE(eD8:D27)
 =MAX(D8:D27)
-=MIN(D8:D27)	
-=COUNTA(B8:B27)	
-=LARGE(D8:D27,4)
-=SMALL(D8:D27,3)
+=MIN(D8:D2
+```
 
 ```SQL
 SELECT*FROM TABLE1
