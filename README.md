@@ -43,7 +43,8 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data Visualisation
-![DASHBOARD2.jpg](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/DASHBOARD2.jpg)
+
+![](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/DASHBOARD2.jpg)
 
 
    
