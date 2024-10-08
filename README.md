@@ -51,6 +51,11 @@ EDA involve the exploring of the Data to answer some questions about the data su
 
 SELECT*FROM TABLE1
 WHERE CONDITION = TRUE
+
+UPDATE TABLE 1
+TRUNCATE TABLE1
+DELETE FROM TABLE 1
+
 ```
 
 ### Data Visualisation
