@@ -27,6 +27,7 @@ EDA involve the exploring of the Data to answer some questions about the data su
 - Which product are top sellers
 - What are the product on peak sales?
  ---
+ 
  ### Data Analysis
  This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 ```
@@ -37,6 +38,10 @@ EDA involve the exploring of the Data to answer some questions about the data su
 =COUNTA(B8:B27)	
 =LARGE(D8:D27,4)
 =SMALL(D8:D27,3)
+
+```SQL
+SELECT*FROM TABLE1
+WHERE CONDITION = TRUE
 ```
 
 ### Data Visualisation
