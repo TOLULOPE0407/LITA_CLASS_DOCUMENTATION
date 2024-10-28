@@ -14,7 +14,7 @@
 [Data Visualisation](#data-visualisation)
 
 ---
-### Project Overview: Data Analysis involves Inspecting,Cleaning,Transforming and Modeling data to discover useful informations,draw conclusions and support decision making.The pharse 'DATA IS LIFE' cannot be over emphasis here because data help business make informed decision ,understand customer behaviours,improve operations and predict future .Data Ananlysis help the organisation to identify what is working, what is not working and what should be the major focus of the organistion to maximize profit.This project is to give an insight to all my learnings during the class activities in the Ladies In Tech Africa Data Analysis Class. By using three major tools(EXCEL,Structured Query Language SQL, AND POWER BI)
+### Project Overview: Data Analysis involves Inspecting,Cleaning,Transforming and Modeling data to discover useful informations,draw conclusions and support decision making.The pharse 'DATA IS LIFE' cannot be over emphasis here because data help business make informed decision ,understand customer behaviours,improve operations and predict future .Data Ananlysis help the organisation to identify what is working, what is not working and what should be the major focus of the organistion to maximize profit.This project is to give an insight to all my learnings during the class activities in the Ladies In Tech Africa Data Analysis Class. By using three major tools(Excel,Structured Query Language SQL, and Power Bi)
 ---
 ### Data sources: Data used in this class were majorly provided 
 ---
