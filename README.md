@@ -76,9 +76,10 @@ ALTER TABLE1
 
 ![DASHBOARD2.jpg](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/DASHBOARD2.jpg)
 
-![](
+![Picture1](https://github.com/user-attachments/assets/c220d3f5-c1a7-41f5-8cd3-7fe96f150148)
 
-![IMG-20241008-WA0011.jpg](https://github.com/TOLULOPE0407/LITA_CLASS_DOCUMENTATION/blob/main/IMG-20241008-WA0011.jpg)
+
+
 
 🥇
 💻
